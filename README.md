@@ -2,6 +2,8 @@ project about ratng restaurant with using api
 
 
 Business requirements :
+
+
 1- Restaurant list screen has the foloowing information - restaurant name - restaurant number of stars - restaurant average rate - Login - Register - showing already logged in customer
 
 2- Popup error if the customer already rated
