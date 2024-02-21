@@ -1,5 +1,7 @@
 project about ratng restaurant with using api 
-#Business requirements :
+
+
+Business requirements :
 1- Restaurant list screen has the foloowing information - restaurant name - restaurant number of stars - restaurant average rate - Login - Register - showing already logged in customer
 
 2- Popup error if the customer already rated
@@ -7,7 +9,9 @@ project about ratng restaurant with using api
 3- Add rate scree, stars 1 to 5 only and SAVE
 
 
-##Technical requirements:
+
+
+Technical requirements:
 Using Django REST frame work please implement the followings
 
 1- Models - restaurant - Stars - customer
