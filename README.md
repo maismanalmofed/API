@@ -1,4 +1,4 @@
-project about ratng restaurant with using api 
+project about rating restaurant with using api 
 
 
 Business requirements :
